@@ -156,7 +156,7 @@ ntrain = 1000
 ntest = 100
 
 sub = 1 #subsampling rate
-h = 2**10 // sub
+h = 2**13 // sub
 s = h
 
 batch_size = 20
